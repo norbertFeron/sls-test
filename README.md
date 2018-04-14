@@ -2,7 +2,7 @@
 
 A serverless hello world app built by CI/CD process.
 
-[![CircleCI](https://circleci.com/gh/rupakg/hello-world-ci/tree/master.svg?style=svg)](https://circleci.com/gh/rupakg/hello-world-ci/tree/master)
+[![CircleCI](https://circleci.com/gh/norbertFeron/sls-test.svg?style=svg)](https://circleci.com/gh/norbertFeron/sls-test)
 
 ## Install Jest
 
